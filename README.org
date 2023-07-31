@@ -1,0 +1,21 @@
+#+title: Calm the Zero
+#+author: Gleefre
+#+email: varedif.a.s@gmail.com
+
+#+description: This is a README file for the Calm the Zero game
+#+language: en
+
+* About
+  Made with [[https://github.com/vitovan/calm][CALM]]. To run from source:
+  - install CALM;
+  - clone the repository;
+  - call =calm= command from the root of the repository.
+  #+BEGIN_SRC bash
+  # instal CALM first
+  # then
+  git clone https://github.com/Gleefre/calm-the-zero
+  cd calm-the-zero
+  calm
+  #+END_SRC bash
+* Screenshots
+  [[screen.png][screen.png]]
